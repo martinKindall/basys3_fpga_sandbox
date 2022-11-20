@@ -1,6 +1,5 @@
 `timescale 1ns / 1ps
 
-
 module SomeMux_TB;
 
     logic [3:0] a;

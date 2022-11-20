@@ -1,6 +1,5 @@
 `timescale 1ns / 1ps
 
-
 module AndGate_TB;
 
     logic [3:0] a;
